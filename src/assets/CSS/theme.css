@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC:300,900&subset=chinese-traditional');
+
+h1, h2, h3 {
+    color: #fff;
+    font-family: 'Noto Sans TC', sans-serif;
+    line-height: 0.8;
+}
+
+h1, h2 {
+    font-weight: 900;
+}
+
+h3.title {
+    font-weight: bold;
+    color: #384156;
+    line-height: 1.49;
+}
+
+h3.subtitle {
+    color: #f46197;
+}
+
+.highlight {
+    color: #f46197;
+}
+
+p {
+   font-family: 'Noto Sans TC', sans-serif; 
+}
